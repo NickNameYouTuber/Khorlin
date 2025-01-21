@@ -1,2 +1,6 @@
 New line
+<<<<<<< HEAD
 Changes in master
+=======
+Changes in branch1
+>>>>>>> branch1
