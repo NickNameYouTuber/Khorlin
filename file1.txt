@@ -1,1 +1,2 @@
 New line
+Changes in branch1
